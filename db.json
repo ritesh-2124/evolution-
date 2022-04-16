@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "City_name": "california",
+      "Population": "1000000",
+      "Country": "america",
+      "id": 1
+    },
+    {
+      "City_name": "ritesh",
+      "Population": "122222",
+      "Country": "pakistan",
+      "id": 3
+    },
+    {
+      "City_name": "los a",
+      "Population": "22222",
+      "Country": "amnerica",
+      "id": 5
+    },
+    {
+      "City_name": "allahabad",
+      "Population": "290000",
+      "Country": "india",
+      "id": 6
+    },
+    {
+      "City_name": "prayag raj",
+      "Population": "10000",
+      "Country": "india",
+      "id": 7
+    },
+    {
+      "City_name": "ghaziyabad",
+      "Population": "400000",
+      "Country": "india",
+      "id": 8
+    },
+    {
+      "City_name": "ghaziyabad",
+      "Population": "400000",
+      "Country": "india",
+      "id": 9
+    }
+  ],
+  "country": [
+    {
+      "country": "india",
+      "id": 1
+    },
+    {
+      "country": "pakistan",
+      "id": 2
+    },
+    {
+      "country": "america",
+      "id": 3
+    },
+    {
+      "country": "england",
+      "id": 4
+    }
+  ]
+}
